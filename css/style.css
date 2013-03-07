@@ -1,0 +1,162 @@
+/*Take this pie and eat it*/
+
+
+
+/*download button*/
+.button {
+   border-top: 1px solid #1d1819;
+   background: #1d1819;
+   background: -webkit-gradient(linear, left top, left bottom, from(#1d1819), to(#1d1819));
+   background: -webkit-linear-gradient(top, #1d1819, #1d1819);
+   background: -moz-linear-gradient(top, #1d1819, #1d1819);
+   background: -ms-linear-gradient(top, #1d1819, #1d1819);
+   background: -o-linear-gradient(top, #1d1819, #1d1819);
+   padding: 12px 24px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #f4f5e3;
+   font-size: 21px;
+   font-family: 'Myriad Pro', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #0191b5;
+   background: #0191b5;
+   color: #f4f5e3;
+   }
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+/*end d/l button*/
+
+.thien {
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	text-align: right;
+}
+
+#title_info {
+	font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:normal;
+	color:#626262;
+	text-align:right;
+	margin-top:-44px;
+
+}
+
+#top_line a{
+	text-decoration: none;
+	color:#626262;
+}
+#top_line a:hover{
+	text-decoration: underline;
+	color:#626262;
+}
+
+#bottom_line{
+	margin-top:-18px;
+	text-align:right;
+	padding-left:135px;
+}
+
+/*dividers in title*/
+#dev1{
+	color:#c41010;
+}
+
+#dev2{
+	color: #0192b5;
+}
+
+#dev3{
+	color: #00ff06;
+}
+
+
+/*employee module*/
+#employment{
+	margin-top:7px;
+}
+
+.employ_mcol{
+	color: #0192b5;
+}
+
+/*end employee module*/
+
+/*skills module*/
+
+.skills_mcol{
+	color:#c41010;
+}
+
+/*end skills module*/
+
+/*education module*/
+.edu_mcol{
+	color:#22c807;
+}
+/*end education module*/
+
+/*extra module*/
+.extra{
+	text-align:right;
+}
+
+.extra_mcol{
+	color:;
+}
+/*end extra module*/
+
+/*universal module */
+.lcol{
+	font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:normal;
+	color: #7d7272;
+}
+
+.rcol{
+	font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	text-align:left;
+	color: #1d1819;
+}
+
+.date{
+	font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	text-align:right;
+}
+
+.loc{
+	font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	text-align:right;
+	margin-top:-15px;
+}
+
+.left{
+	margin-left:160px;
+}
+
+.r_fix{
+	margin-top:0px;
+}
+/*end universal module*/
+
+#footer{
+	margin-top:45px;
+	text-align:left;
+}
