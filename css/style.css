@@ -29,6 +29,8 @@ a:hover {
     padding-top: 15px;
 }
 
+
+
 /*download button*/
 .button {
    border-top: 1px solid #1d1819;
@@ -90,11 +92,12 @@ h1.thien {
 
 #top_line a{
 	text-decoration: none;
-	color:#626262;
+  color: rgb(1, 146, 181);
 }
+
 #top_line a:hover{
 	text-decoration: underline;
-	color:#626262;
+	color: rgb(1, 146, 181);
 }
 
 #bottom_line{
