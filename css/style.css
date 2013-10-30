@@ -202,3 +202,14 @@ h1.thien {
 	text-align: center;
     color: #6F6F6F;
 }
+
+#summary {
+    font-family: "Myriad Pro", Helvetica, sans-serif;
+    margin-top:-10px;
+    margin-left: 350px;
+  font-size:18px;
+  font-weight:bold;
+  color: #7d7272;
+    text-align: right;
+    margin-bottom: -9px;
+}
