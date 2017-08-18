@@ -3,16 +3,16 @@
 
 name = "Squid"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+licenselink = "https://github.com/thenormalsquid/squid-theme/blob/master/LICENSE.md"
 description = ""
-homepage = "https://thenormalsquid.github.io"
-tags = []
-features = []
+homepage = ""
+tags = ["responsive", "personal"]
+features = ["responsive"]
 min_version = "0.25.1"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Thien-Bach Huynh"
+  homepage = "https://thenormalsquid.github.io"
 
 # If porting an existing theme
 [original]
